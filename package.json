@@ -1,0 +1,19 @@
+{
+  "name": "my-city-extension",
+  "version": "1.0.0",
+  "description": "My City Chrome Extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbalaji410/my-city-extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbalaji410/my-city-extension/issues"
+  },
+  "homepage": "https://github.com/gbalaji410/my-city-extension#readme"
+}
